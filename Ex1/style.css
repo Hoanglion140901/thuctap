@@ -104,12 +104,7 @@
     flex-grow: 1;
     margin-top: 30px;
     margin-left: 20px;
-}*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
 }
-
 #father{
     margin-top: 30px;
     margin-bottom: 100px;
@@ -124,7 +119,6 @@
 .child-1{
     flex-grow: 1;
 }
-
 
 .child-box-1{
     background-color: rgba(239, 11, 11, 0.752);
